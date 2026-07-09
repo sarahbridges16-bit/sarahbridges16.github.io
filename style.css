@@ -1,0 +1,97 @@
+/* Little Paws, Big Adventures */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f8f6f2;
+    color: #333333;
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+    line-height: 1.6;
+}
+
+nav {
+    background-color: #d8e3d2;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+nav a {
+    color: #2f5d50;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+}
+
+nav a:hover {
+    color: #6d8b74;
+}
+
+h1 {
+    color: #2f5d50;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #6d8b74;
+    border-bottom: 2px solid #d8e3d2;
+    padding-bottom: 5px;
+    margin-top: 35px;
+}
+
+h3 {
+    color: #4b6654;
+}
+
+p {
+    margin-bottom: 18px;
+}
+
+ul {
+    background-color: white;
+    padding: 20px 35px;
+    border-radius: 10px;
+}
+
+dl {
+    background-color: #f3f7f0;
+    padding: 15px;
+    border-left: 5px solid #8ea88b;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+dd {
+    margin-bottom: 10px;
+}
+
+img {
+    display: block;
+    margin: 25px auto;
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,.15);
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #d8e3d2;
+    margin: 35px 0;
+}
+
+a {
+    color: #2f5d50;
+}
+
+a:hover {
+    color: #7d9875;
+}
